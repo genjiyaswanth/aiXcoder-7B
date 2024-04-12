@@ -12,7 +12,7 @@ Table of Contents
 2. [Quickstart](#quickstart)
     - [Environment Requirements](#environment-requirements)
     - [Model Weights](#model-weights)
-    - [Inference Example](#inference-example)
+    - [Inference Example](#inference-sample)
     - [Quantized through bitsandbytes](#quantized-through-bitsandbytes)
     - [Fine-tuning example](#fine-tuning-example)
 3. [Data for aiXcoder 7B](#data-for-aixcoder-7b)
